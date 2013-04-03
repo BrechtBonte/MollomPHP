@@ -1,0 +1,6 @@
+{
+    "name": "Mollom/MollomPHP",
+    "autoload": {
+        "classmap": "src/"
+    }
+}
