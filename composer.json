@@ -1,7 +1,9 @@
 {
     "name": "Mollom/MollomPHP",
     "autoload": {
-        "classmap": "src/"
+        "psr-0": {
+            "Mollom" : "src/"
+        }
     },
     
     "require": {
